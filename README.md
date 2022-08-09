@@ -8,8 +8,8 @@ It's about using web serial API along with the previous task (The Speech recogni
 It's about coding an arm controling code associated with the web serial API.
 
 ## Note:
-Make sure that you use Chrome engine.
-
+Make sure that you use Chrome engine.<br>
+-for more information; you can read the readme file inside each folder.
 ## Output
 
 
