@@ -1,3 +1,9 @@
 # ArmMovementControl
 ***These are 2 subtasks provided by Smart Methods company.*** 
-Accomplished by me and @mothla .
+**Accomplished by me and [@mothla](https://github.com/mothla) .**
+## Subtask one:
+It's about using web serial API along with the previous task (The Speech recognition task).
+
+## Subtask two:
+It's about coding an arm controling code associated with the web serial API.
+
